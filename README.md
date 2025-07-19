@@ -26,3 +26,9 @@ Este é um projeto de **Lista de Tarefas (ToDo List)** desenvolvido como parte d
 
 ## 📂 Estrutura do projeto
 
+/todo-list
+│
+├── index.html # Estrutura principal do app
+├── style.css # Estilização da aplicação
+├── index.js # Lógica e funcionalidades em JS
+└── README.md # Documentação do projeto
